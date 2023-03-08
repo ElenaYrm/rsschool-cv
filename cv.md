@@ -51,3 +51,33 @@ I tried to write the Flat method for array by myself:
     return array.reduce((acc, item) => Array.isArray(item) ? [...acc, ...flatArr(item)] : [...acc, item] , []);
   }
   ```
+  
+## Projects:
+
+You can see the project that I am working now:
+* [CookBook](https://recipes.elenportfolio.net/)
+* [Repository](https://github.com/ElenaYrm/recipes-react)
+
+The main idea is to work with Redux Toolkit, React Router, Jest, types of optimization and color switcher.
+_Now I am still working on tests and optimization._
+
+## Education and courses:
+
+* **Self-study** _(2022-2023)_
+  * JavaScript, TypeScript, React
+
+* **Skillbox** _(2022, final project in progress)_
+  * HTML, CSS, JavaScript, React
+
+* **Belarusian State University** _(2012-2016)_
+  * Business Administration
+
+## Experience:
+
+* **Alivaria** _(2016-2022)_
+  * Production planning manager _(the last position)_
+
+## Languages:
+
+1. **English** - Intermediate
+2. **Russian** - Native
